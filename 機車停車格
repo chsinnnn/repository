@@ -1,0 +1,2 @@
+建立好YOLOv8c環境
+確認電腦有顯卡(要使用到GPU)、下載pytorch、使用python、在終端機中下載好yolov8套件
