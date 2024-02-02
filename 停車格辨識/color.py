@@ -1,3 +1,5 @@
+# 為了知道白色的上下限
+
 import cv2
 import numpy as np
 
