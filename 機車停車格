@@ -1,2 +1,3 @@
-建立好YOLOv8c環境
+建立好YOLOv8環境
 確認電腦有顯卡(要使用到GPU)、下載pytorch、使用python、在終端機中下載好yolov8套件
+環境設置好後使用command:yolo predict model=yolov8n.pt source='要辨識的圖片路徑'即可使用YOLOv8裡面的模型偵測
